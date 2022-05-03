@@ -8,5 +8,5 @@ Application security is the one of the major threats faced by an organization. T
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ashish0688/infisecure)
 
-<center><img src="img/appsec.jpg"/></center>
+<center><img src="/assets/img/appsec.jpg"/></center>
 
